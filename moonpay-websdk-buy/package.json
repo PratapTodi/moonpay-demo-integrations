@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "@moonpay/moonpay-js": "^0.6.1",
-    "express": "^4.19.2"
+    "express": "^4.22.0"
   },
   "devDependencies": {
     "live-server": "^1.2.2"
